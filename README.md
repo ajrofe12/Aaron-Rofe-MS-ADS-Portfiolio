@@ -28,3 +28,17 @@ Writing reporoducable code in R and Python for data preparation, modeling, featu
 Translating analytics results into clear visual dashboards, presentations, and written analyses for both technical and non-technical audiences.
 
 ### **6. Apply ethics in the development, use and evaluation of data and predictive models (e.g., fairness, bias, transparency, privacy)**
+Address concerns such as fairness, bias, model transparency, and the appropriate use of sensitive variables when conducting an analysis.
+
+---
+
+## **High-Level Summaries of Included Projects**
+
+### **1. Residential Energy Usage Shiny App (IST 687)**
+Developed an interactive shiny app and random forest model to classify homes into low, medium or high energy usage based on more than 200 building, demographic, and climate variables.
+
+### **2. Climate-Commodity Machine Learning Project (IST 707)**
+Analyzed climate indicators (temperature, precipitation, anomalies) and their relationship seven common global commodity prices. Built a python-based pipeline for preprocessing, feature engineering and modeling.
+
+### **3. Emergency Hospital Transportation Database (IST 659)**
+Designed a full relational database system supporting emergency dispatch workflows. Included ERD diagrams, 
