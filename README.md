@@ -13,3 +13,4 @@ This portfolio highlights 3 projects completed throughout the MS ADS program plu
 ## **Program Learning Outcomes**
 
 ### **1. Collect, store, and access data by identifying and leveraging applicable technologies**
+
