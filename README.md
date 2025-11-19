@@ -41,4 +41,11 @@ Developed an interactive shiny app and random forest model to classify homes int
 Analyzed climate indicators (temperature, precipitation, anomalies) and their relationship seven common global commodity prices. Built a python-based pipeline for preprocessing, feature engineering and modeling.
 
 ### **3. Emergency Hospital Transportation Database (IST 659)**
-Designed a full relational database system supporting emergency dispatch workflows. Included ERD diagrams, 
+Designed a full relational database system supporting emergency dispatch workflows. Included ERD diagrams, logical and conceptual models, full project writeup, and final presentation.
+
+### **4. MLB Shirking Thesis (Undergraduate Senior Thesis)**
+Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB players show reduced performance after signing long-term contracts. Built predictive models for the 2025 free-agent class. 
+
+---
+
+## **How These Project Demonstrate the Program Learning Outcomes** 
