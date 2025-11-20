@@ -97,3 +97,19 @@ Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB player
 - **Climate–Commodity Project:** Identified where price–climate relationships broke down during COVID-era shocks and avoided overstating conclusions.  
 - **MLB Shirking Thesis:** Carefully handled birthplace/demographic variables and discussed fairness considerations in modeling.
 
+
+# **Project Descriptions**
+
+Below are the four projects included in my Applied Data Science portfolio. Each link directs to a full repository containing the code, documentation, and detailed project writeup.
+
+- [Energy Usage Shiny App (IST 687)](https://github.com/ajrofe12/shiny-app-project)
+  Interactive Shiny app and random forest model predicting residential energy usage levels.
+
+- [Climate-Commodity Machine Learning Project (IST 707)](https://github.com/ajrofe12/commodity-price-ml-project)
+  Machine Learning Analysis of climate indicators and their effects on global commodity price.
+
+- [Emergency Hospital Transport Database (IST 659)](https://github.com/ajrofe12/hospital-database-project)
+  Full relational database design for emergency dispatch coordination, including ER diagrams and SQL script.
+
+- [MLB Shirking Thesis (Undergraduate Senior Thesis)](https://github.com/ajrofe12/shirking-in-MLB)
+  R-based statistical analysis using GAM models to evaluate performance declines after long-term MLB contracts
