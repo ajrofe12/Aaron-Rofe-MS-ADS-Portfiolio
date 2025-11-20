@@ -52,33 +52,48 @@ Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB player
 ---
 
 
-## **How These Project Demonstrate the Program Learning Outcomes** 
+## **How These Projects Demonstrate the Program Learning Outcomes**
 
 ### **1. Collect, store, and access data by identifying and leveraging applicable technologies**
 - **Climate–Commodity ML Project:** Merged multiple CSV datasets containing global commodity prices and climate indicators, and built a reproducible Python preprocessing workflow.
-- **MLB Shirking Thesis:** Used multiple data sources (`baseballr`, Fangraphs, Spotrac) to collect multi-year salary, performance, and demographic data for nearly 2,000 players.
-- **Energy Usage Shiny App:** Cleaned and sampled a very large dataset (~8.5M rows) and created modeling-ready RDS/CSV files.
+- **MLB Shirking Thesis:** Used several data sources (`baseballr`, Fangraphs, Spotrac) to gather multi-year salary, performance, and demographic data for nearly 2,000 players.
+- **Energy Usage Shiny App:** Cleaned and sampled a very large dataset (~8.5M rows) and produced modeling-ready CSV/RDS files for downstream analysis.
 
-### **Outcome 2: Create actionable insight using the full data science lifecycle** 
-- **Energy Usage Shiny App:** Built a Random Forest model and interactive dashboard to classify households into usage levels.  
-- **MLB Shirking Thesis:** Identified how salary increases and contract length predict performance decline, offering actionable insight for contract risk evaluation in sport analytics.  
-- **Climate–Commodity Project:** Used exploratory analysis to examine whether temperature, precipitation, and climate anomalies influence price behavior across seven global commodities.
-- **Hospital Database:** Improved emergency workflow coordination by modeling relationships between drivers, EMTs, hospitals, and patient pickups/deliveries.
+---
 
-### **Outcome 3: Apply visualization and predictive models to generate insight**  
-- **Shiny App:** Implemented Random Forest classification, variable importance plots, and interactive data tables.  
-- **MLB Shirking Thesis:** Used exploratory data analysis, GAM modeling, and visualizations to examine performance decline patterns.  
-- **Climate–Commodity Project:** Produced time-series plots, climate/price correlation charts, and exploratory analytics using Python.
+### **2. Create actionable insight using the full data science lifecycle**
+- **Energy Usage Shiny App:** Built a Random Forest model and interactive dashboard to classify households into usage levels, offering insight into energy consumption behavior.  
+- **MLB Shirking Thesis:** Determined how salary increases and contract length influence player performance decline, giving actionable guidance for contract risk evaluation in sports analytics.  
+- **Climate–Commodity Project:** Performed exploratory analysis to evaluate how temperature, precipitation, and climate anomalies relate to price behavior across seven agricultural commodities.  
+- **Hospital Database:** Designed a relational schema and relationships that improve emergency dispatch workflows and support efficient patient, hospital, and resource coordination.
 
-### **Outcome 4: Use programming languages such as R and Python to support analytics**  
-- **R:** Used extensively for Shiny (UI/server, preprocessing, modeling, visuals) and for the MLB thesis (cleaning, GAM modeling, prediction, visuals).  
-- **Python:** Used in the Climate–Commodity project for preprocessing, feature engineering, visualization, and modeling workflows.  
-- **SQL:** Used in the Hospital project for table creation, constraints, triggers, functions and data creation.
+---
 
-### **Outcome 5: Communicate insights to both technical and non-technical audiences**  
-- **Shiny App:** Presented model outputs and variable importance through a user-friendly dashboard.
-- **Hospital Database:** Communicated system design through ER diagrams, logical and conceptual models and structured documentation.
-- **MLB Shirking Thesis:** Provided a complete written analysis with clear explanations of data collection, modeling, and explanation.
-- **Climate-Commodity Project:** Produced notebooks and documentation summarizing relationships, trends and modeling process.
+### **3. Apply visualization and predictive models to generate insight**
+- **Shiny App:** Implemented Random Forest classification, variable importance plots, and interactive data tables to support interpretability.  
+- **MLB Shirking Thesis:** Used exploratory visualizations and GAM modeling to analyze performance decline patterns.  
+- **Climate–Commodity Project:** Created time-series plots, climate vs. price comparisons, and correlation analyses using Python.
 
-### **Outcome 6: Apply ethics in data and model development**  
+---
+
+### **4. Use programming languages such as R and Python to support analytics**
+- **R:** Applied heavily across the Shiny App (UI/server, preprocessing, modeling, visualizations) and MLB thesis (cleaning, GAM modeling, prediction, EDA).  
+- **Python:** Used in the Climate–Commodity project for preprocessing, feature engineering, modeling, and visualization workflows.  
+- **SQL:** Applied in the Hospital Database project for table creation, constraints, triggers, functions, and data population.
+
+---
+
+### **5. Communicate insights to both technical and non-technical audiences**
+- **Shiny App:** Presented model outputs and explanations through a user-friendly, interactive dashboard.  
+- **Hospital Database:** Communicated system design through ER diagrams, conceptual and logical models, and clear technical documentation.  
+- **MLB Shirking Thesis:** Delivered a full written analysis with clear explanations of data collection, modeling choices, and interpretation.  
+- **Climate–Commodity Project:** Produced notebooks and documentation summarizing trends, modeling steps, and key findings.
+
+---
+
+### **6. Apply ethics in data and model development**
+- **Shiny App:** Removed leakage-prone variables and prevented overfitting by excluding direct energy consumption metrics.  
+- **Hospital Database:** Considered privacy and sensitive medical information when designing tables and relationships.  
+- **Climate–Commodity Project:** Identified where price–climate relationships broke down during COVID-era shocks and avoided overstating conclusions.  
+- **MLB Shirking Thesis:** Carefully handled birthplace/demographic variables and discussed fairness considerations in modeling.
+
