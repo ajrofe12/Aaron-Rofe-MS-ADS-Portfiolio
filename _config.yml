@@ -1,3 +1,26 @@
 title: "Aaron Rofe – Applied Data Science Portfolio"
 description: "M.S. Applied Data Science Portfolio – Syracuse University (Fall 2025)"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+
+# Ensure GitHub Pages processes markdown correctly
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Navigation bar links (these MUST correspond to files in your repo)
+navbar:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/index.md#project-descriptions"
+  - name: "Blog Reflection"
+    link: "/blog.md"
+  - name: "Video Presentation"
+    link: "/video.md"
+
+# Exclude items from the site build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
