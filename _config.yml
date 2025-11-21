@@ -1,6 +1,6 @@
 title: "Aaron Rofe – Applied Data Science Portfolio"
 description: "M.S. Applied Data Science Portfolio – Syracuse University (Fall 2025)"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # Ensure GitHub Pages processes markdown correctly
 markdown: kramdown
