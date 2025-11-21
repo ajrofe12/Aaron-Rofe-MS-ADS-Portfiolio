@@ -3,6 +3,7 @@
 
 This portfolio highlights 3 projects completed throughout the MS ADS program plus my undergraduate senior thesis, and explains how each contributed to achieving the program's core learning outcomes.
 
+
 ---
 
 
@@ -26,6 +27,7 @@ Translating analytics results into clear visual dashboards, presentations, and w
 ### **6. Apply ethics in the development, use and evaluation of data and predictive models (e.g., fairness, bias, transparency, privacy)**
 Address concerns such as fairness, bias, model transparency, and the appropriate use of sensitive variables when conducting an analysis.
 
+
 ---
 
 
@@ -43,6 +45,7 @@ Designed a full relational database system supporting emergency dispatch workflo
 ### **4. MLB Shirking Thesis (Undergraduate Senior Thesis)**
 Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB players show reduced performance after signing long-term contracts. Built predictive models for the 2025 free-agent class. 
 
+
 ---
 
 
@@ -53,7 +56,9 @@ Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB player
 - **MLB Shirking Thesis:** Used several data sources (`baseballr`, Fangraphs, Spotrac) to gather multi-year salary, performance, and demographic data for nearly 2,000 players.
 - **Energy Usage Shiny App:** Cleaned and sampled a very large dataset (~8.5M rows) and produced modeling-ready CSV/RDS files for downstream analysis.
 
+
 ---
+
 
 ### **2. Create actionable insight using the full data science lifecycle**
 - **Energy Usage Shiny App:** Built a Random Forest model and interactive dashboard to classify households into usage levels, offering insight into energy consumption behavior.  
@@ -61,7 +66,9 @@ Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB player
 - **Climate–Commodity Project:** Performed exploratory analysis to evaluate how temperature, precipitation, and climate anomalies relate to price behavior across seven agricultural commodities.  
 - **Hospital Database:** Designed a relational schema and relationships that improve emergency dispatch workflows and support efficient patient, hospital, and resource coordination.
 
+
 ---
+
 
 ### **3. Apply visualization and predictive models to generate insight**
 - **Shiny App:** Implemented Random Forest classification, variable importance plots, and interactive data tables to support interpretability.  
@@ -75,7 +82,9 @@ Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB player
 - **Python:** Used in the Climate–Commodity project for preprocessing, feature engineering, modeling, and visualization workflows.  
 - **SQL:** Applied in the Hospital Database project for table creation, constraints, triggers, functions, and data population.
 
+
 ---
+
 
 ### **5. Communicate insights to both technical and non-technical audiences**
 - **Shiny App:** Presented model outputs and explanations through a user-friendly, interactive dashboard.  
@@ -83,7 +92,9 @@ Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB player
 - **MLB Shirking Thesis:** Delivered a full written analysis with clear explanations of data collection, modeling choices, and interpretation.  
 - **Climate–Commodity Project:** Produced notebooks and documentation summarizing trends, modeling steps, and key findings.
 
+
 ---
+
 
 ### **6. Apply ethics in data and model development**
 - **Shiny App:** Removed leakage-prone variables and prevented overfitting by excluding direct energy consumption metrics.  
