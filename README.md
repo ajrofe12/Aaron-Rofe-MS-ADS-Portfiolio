@@ -1,5 +1,3 @@
----
-
 
 # Applied Data Science Portfolio - Overview
 
