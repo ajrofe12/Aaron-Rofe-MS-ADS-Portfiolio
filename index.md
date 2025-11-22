@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="assets/images/aaron_graduation.jpg" alt="Aaron Rofe" width="300" style="border-radius: 12px;">
+  <img src="assets/images/aaron_graduation.png" alt="Aaron Rofe" width="300" style="border-radius: 12px;">
 </p>
 
 ---
