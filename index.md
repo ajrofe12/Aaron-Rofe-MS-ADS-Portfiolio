@@ -103,6 +103,7 @@ Used R, Fangraphs/Spotrac data, and GAM models to investigate whether MLB player
 - **MLB Shirking Thesis:** Carefully handled birthplace/demographic variables and discussed fairness considerations in modeling.
 
 
+<a id="projects"></a>
 # **Project Descriptions**
 
 Below are the four projects included in my Applied Data Science portfolio. Each link directs to a full repository containing the code, documentation, and detailed project writeup.
