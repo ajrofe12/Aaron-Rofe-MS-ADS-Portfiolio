@@ -1,3 +1,11 @@
+<p style="text-align:center;">
+  <a href="/">Home</a> |
+  <a href="#projects">Projects</a> |
+  <a href="blog.md">Blog Reflection</a> |
+  <a href="video.md">Video Presentation</a>
+</p>
+
+---
 
 # Applied Data Science Portfolio - Overview
 
