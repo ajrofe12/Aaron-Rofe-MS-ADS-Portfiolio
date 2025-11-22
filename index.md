@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="assets/images/aaron_graduation.jpg" alt="Aaron Rofe" width="300" style="border-radius: 12px;">
+</p>
+
+---
+
 # Applied Data Science Portfolio - Overview
 
 This portfolio highlights 3 projects completed throughout the MS ADS program plus my undergraduate senior thesis, and explains how each contributed to achieving the program's core learning outcomes.
