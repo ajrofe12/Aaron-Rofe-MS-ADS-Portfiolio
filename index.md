@@ -134,3 +134,9 @@ Below are the four projects included in my Applied Data Science portfolio. Each 
 - [MLB Shirking Thesis (Undergraduate Senior Thesis)](https://github.com/ajrofe12/shirking-in-MLB) -
   R-based statistical analysis using GAM models to evaluate performance declines after long-term MLB contracts
 
+
+## Blog Reflection
+
+To read my full reflection on my experience in the M.S. in Applied Data Science program, see my blog post here:  
+[**Blog Reflection – My Journey Through the Applied Data Science Program**](blog.md)
+
